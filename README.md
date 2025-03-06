@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to Dhruv Luvani's Github
 
-<!--
-**dhruv-luvani/dhruv-luvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=Dhruv%20Luvani&style=for-the-badge&logo=githubpages&url=https://dhruv-luvani.github.io/profile)][website]
+ 
+### Connect with me:
 
-Here are some ideas to get you started:
+[<img align="left" alt="Dhruv Luvani | FlowCV" width="22px" src="https://raw.githubusercontent.com/smit-luvani/smit-luvani/master/assets/svg/linktree.svg" />][flowCV]
+[<img align="left" alt="Dhruv Luvani | LinkedIn" width="22px" src="https://raw.githubusercontent.com/smit-luvani/smit-luvani/master/assets/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="Dhruv Luvani | Portfolio" width="22px" src="https://raw.githubusercontent.com/smit-luvani/smit-luvani/master/assets/svg/world.svg" />][website]
+[<img align="left" alt="Dhruv Luvani | GitHub" width="22px" src="https://raw.githubusercontent.com/smit-luvani/smit-luvani/master/assets/svg/github.svg" />][GitHub]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[website]: https://dhruv-luvani.github.io/profile
+[youtube]: https://www.youtube.com/@dhruvluvani
+[instagram]: https://www.instagram.com/dhruv_luvani_42
+[linkedin]: https://linkedin.com/in/dhruv-luvani
+[flowCV]: https://flowcv.me/dhruv-luvani
+[GitHub]: https://github.com/dhruv-luvani
